@@ -1,0 +1,32 @@
+header {
+    background-color: rgba(255, 255, 255, 0.623); /* imagen de fondo*/
+    /*color: rgb(5, 65, 137);*/ 
+ }
+ 
+ 
+ body {
+    background-color: rgb(168, 186, 235);
+ }
+ .class1 {
+     background-color: rgba(0, 0, 0, 0.692);;
+     color: rgb(255, 254, 254);
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     width: 400px;
+     height: 400px;
+     padding: 20px;
+     margin: 0 auto; 
+     align-content: center;
+     background-position: center center;
+     text-align: center;
+     align-items: center;
+     justify-content: center;
+}
+ #boton{
+     display: inline-block;
+     padding: 11px 45px;
+     background-color: rgb(246, 19, 30);
+     color: rgb(255, 255, 255);
+     font-size: 18px;
+     background-position: center;
+ }
+ 
